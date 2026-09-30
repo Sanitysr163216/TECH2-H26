@@ -56,7 +56,7 @@ def main():
     print(f'Max. value is {vmax} located at index {imax}')
 
     # Check that function raises an error for empty sequences
-    imax = argmax([])
+    # imax = argmax([])
 
 
 if __name__ == '__main__':
