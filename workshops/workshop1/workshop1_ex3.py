@@ -24,7 +24,6 @@ def tax(income):
 
 import numpy as np
 
-
 incomes = np.linspace(0, 1200000, 13)
 
 
